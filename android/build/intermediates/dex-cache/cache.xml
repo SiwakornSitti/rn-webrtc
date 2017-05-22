@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/0b5e6796cc579ef2ae69a3f323db36a9eeb91f15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_6cf0c5cf3d713e9f97487af5495fb1574cc68c0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/4fabf2ee9bf79683517aee82848aa25cffab4668/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_26c3cf101a2cc246e7afddcfe6dac21d6fff8715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/58582775b18b34a281c15391108f7cdc82b2a033/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_659c486dba6b3af2019c30b1fdb9784fca282833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ddbfad9fc5016834a80a5486e62d0cbddae8494d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/b7dec474f0026ed24b79a0c9642f3656ea9bc8d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_913052d288bc28e22ee78d02d8a52ffee5d819fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/Desktop/Project/RNWebRTC/node_modules/react-native-webrtc/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="71b1d84e1933d2363c57d27f89aed45326ce6ca2">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_a8e2d46d446c2542548e54a7691f6ee088ab05a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_9c49b95b304ccbb7c68982166b9a880082fc4b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/32eda0f701e4ec6b135193063593f10b0868e386/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_146888e8d39e597023f056cf5f1f9d00f5f4cca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_efb76c31a096bbd8fd354a0deb6557eb05882cfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_7a108e9669c17a70eee9c5d5e85ba62c8e587373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/4fabf2ee9bf79683517aee82848aa25cffab4668/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_a6ca336d075498683e5b555f8cd33b8d6529c9e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/a8d1555a0e8ba7079d4f670ff9b62dbaf6d8fb2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_4ddf4e503d58bde911343a3a855621380ec58afd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/9414f9ff1ca8888678b58a32bddbaa1dbb12d080/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_f439beb6969f297ab7de9d9cc75af1374ffe5f46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/74e6622b3d398fa502e421cc0a323564eac3dc6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_9a5e4cb3e84dfa161cc384bd443b97a5acd69c8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/Desktop/Project/RNWebRTC/node_modules/react-native-webrtc/android/build/intermediates/bundles/default/libs/libjingle_peerconnection_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f90b9efe090d06d4aa456f71bb1ff38c464d1c5">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/libjingle_peerconnection_java_3e29ece52db0aafae0cd0ad4ec7e39e5ec71567f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/9365be45ca3c0939433d35d7ef164c738f8b77a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_34106f5edcd107d6b04dd8801b9ab8ca5cfa89ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_c4fdcf38e5955bc1bb82739a634aa6e09da719b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/adcb7bff19bf3803049277b903f78ad428f69bf3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_7cc959ba42339d3d8f37ff024e8bf2ee094efd6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/9d5fb0413592c4fe5d83a6ec59ba70c37494cada/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_919eb952c828d69dbae56d99553b051fa4176cf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/Desktop/Project/RNWebRTC/node_modules/react-native-webrtc/android/build/intermediates/bundles/default/libs/base_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83c48a89933abf755774995f22ed23f8d4adc6b1">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/base_java_c97d060273761289269fe23841473cb921f9cd13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_511087ab4ddafeb35684789867b161cca06cbf24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_efb76c31a096bbd8fd354a0deb6557eb05882cfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_a8d1572bbbe314472ac35b094912367f053d2d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/Desktop/Project/RNWebRTC/node_modules/react-native-device-info/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e4336ffc2b7653868134d7f6f8b28523ef54645">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_11a8b20774e1bcaba6c6bad18aebb1a948378a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/32e67d50fdbe3d1558c069bd28ecf1d6c2084dc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_f75099e9cd014e544e307dcfa47e5812e4c219df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_c4fdcf38e5955bc1bb82739a634aa6e09da719b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_511087ab4ddafeb35684789867b161cca06cbf24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/83fa66f964357834ce9be776535b8be64f801fed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_d6f0b0f445b1a3a9816d839090c1ef5bdbee43ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/3a3f13ce3184753d782dc10340318b5c7f131bab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_e19954d11eebd7e28e1993720b347db899f383fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_ac1462e47aee38b1ae8a7f9e0533dc2543364b45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_ab46a9352669f8af45bdcbe4c3c7dbb7d138f18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_a8d1572bbbe314472ac35b094912367f053d2d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/73bf897ba747ea70be9b029db4512ded2eee3deb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_9af87133b6a2ecf9b047d276f3f041847a77fe4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/ac5942e05e4420214d4f8b0a931ba9babc3f3300/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_dbb413e29b6029393775ad6fcb468896a3fcdfb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ddbfad9fc5016834a80a5486e62d0cbddae8494d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/91cd3bf89b8e32771a7a711803cff75afd391cc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_34b913fb57315d60bdda86b15be08e81551a016d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/29d6d810729d0b8b1f948a0ed5083b8bf3738727/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_e39fbef6b9043750d7cd323fa22fea8ddd28a490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_9c49b95b304ccbb7c68982166b9a880082fc4b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/f09839ff245fc3d5878dcfe8b7104cbc786d4565/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_4e390e62ad502171d40143e919f18871189c05d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_ab46a9352669f8af45bdcbe4c3c7dbb7d138f18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/7c6469133255b649d06e7d748836b41774334e33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_768cf06b8f254b0c995761bf5a6a7daf72abffa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_7a108e9669c17a70eee9c5d5e85ba62c8e587373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/25d8de53fc2721d743fb5d7476f3c7147837cccb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_0deac0b33a8c43773a55a415c0c62fbda7e1dbcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/3f395aefa5987716d9216c5becde2f946eecd0c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_83c751abeb1830e99a61d55db38f113e143b5f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/Desktop/Project/RNWebRTC/node_modules/react-native-config/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4f5d9bafe73f70afc4bf89a7851a09853772cc">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_8f536e3f729628cc845ce3b1525483e2e614fb8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_45deeca4137f85902046345dfe65706b1e532a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/c6925ef46fa582fc4b9f75029dab0649c0d52c33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_f8150d7b592084d3cbb90e9390c276f76ffd8311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.android/build-cache/f4052e84cc4854b8559aed87bb3be94451cc7cdc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/classes_175f2d5759706e186997500705f7443c73079b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boss/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_ac1462e47aee38b1ae8a7f9e0533dc2543364b45.jar" />
+    </item>
+
+</items>

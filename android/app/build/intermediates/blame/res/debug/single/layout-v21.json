@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/boss/.android/build-cache/a8d1555a0e8ba7079d4f670ff9b62dbaf6d8fb2c/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/boss/.android/build-cache/a8d1555a0e8ba7079d4f670ff9b62dbaf6d8fb2c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/boss/.android/build-cache/a8d1555a0e8ba7079d4f670ff9b62dbaf6d8fb2c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/boss/Desktop/Project/RNWebRTC/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/boss/.android/build-cache/a8d1555a0e8ba7079d4f670ff9b62dbaf6d8fb2c/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
